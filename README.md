@@ -1,2 +1,1 @@
-# binalyzer-glsp
-Graphical Language Server for Binalyzer
+# Binalyzer GLSP
