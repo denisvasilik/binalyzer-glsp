@@ -30,5 +30,5 @@ Require-Bundle: org.eclipse.glsp.layout;bundle-version="0.8.0",
  org.eclipse.elk.graph;bundle-version="0.6.0",
  org.apache.commons.cli,
  com.google.gson,
- jakarta.xml.bind;bundle-version="2.3.3",
- com.sun.xml.bind;bundle-version="2.3.0"
+ jakarta.xml.bind;bundle-version="2.2.0",
+ com.sun.xml.bind;bundle-version="2.2.0"
